@@ -1,0 +1,58 @@
+body { margin: 0;}
+html { margin: 0;}
+header{ background-color: #edd9cc; text-align: center;  margin-left: 2%;margin-right: 2%;
+}
+
+
+h1{
+    font-size: 12px; color: #a78865;
+}
+
+
+h2{
+    font-size: 30px; font-family: poppins; color: #a78865; margin-top: 10%; margin-left: 80px;
+}
+
+
+
+div{ background-color: #f5f0e9;  margin-left: 2%; margin-right: 2%;
+    }
+
+
+img{ height: 250px; margin: 3%;
+}
+#logo { height: 280px; margin-top: 50px;}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5rem;
+    
+}
+
+.grid2 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0rem;
+    
+}
+
+#langues
+{
+    float: right;
+    padding: 10%;
+    margin-right: 2%;
+}
+
+
+
+#tlangue { margin: 0;}
+
+p{
+    margin-top: 40px; font-family: poppins-regular;
+}
+
+#top { margin: 0%;
+
+}
